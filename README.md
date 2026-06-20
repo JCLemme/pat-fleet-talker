@@ -1,3 +1,6 @@
-# Example disco Flask Site
+# pat fleet talker
 
-[See the documentation here](https://docs.letsdisco.dev/deployment-guides/flask)
+like a speak-n-spell for at&t
+
+it's vibecoded
+
