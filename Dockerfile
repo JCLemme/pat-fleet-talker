@@ -7,5 +7,5 @@ RUN pip install -r requirements.txt
 
 ADD . /code
 
-CMD ["python", "server.py"]
+CMD ["python", "assembler.py"]
 
