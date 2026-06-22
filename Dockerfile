@@ -7,5 +7,6 @@ RUN pip install -r requirements.txt
 
 ADD . /code
 
+EXPOSE 5001
 CMD ["python", "assembler.py"]
 

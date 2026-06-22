@@ -1077,4 +1077,4 @@ if __name__ == "__main__":
     print("  Right-click a clip → preview (play once)")
     print("  Space/Enter        → play / stop sequence")
     print("  Escape             → stop and clear")
-    app.run(debug=False, port=args.port)
+    app.run(host="0.0.0.0", debug=False, port=args.port)
